@@ -460,3 +460,9 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/go,git,vim,node,ruby,terraform,python
+
+# extras for jekyll/amplify
+_site/
+.sass-cache/
+.jekyll-cache/
+.DS_Store
