@@ -1,0 +1,8 @@
+{
+  "name": "arcane-scripts-clocktower",
+  "version": "0.0.0",
+  "description": "JSON2PDF for custom Blood On the Clocktower scripts",
+  "repository": "git@github.com:chizmw/arcane-scripts-clocktower.git",
+  "author": "Chisel <chisel@malik-wright.uk>",
+  "license": "CC-BY-NC-ND-4.0"
+}
